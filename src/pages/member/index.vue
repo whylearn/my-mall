@@ -1,5 +1,5 @@
 <template>
-  <view>会员</view>
+  <view>会员修建中</view>
 </template>
 
 <script type="text/javascript">
