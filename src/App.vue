@@ -12,6 +12,12 @@
 	}
 </script>
 
-<style>
+<style lang="scss">
 	/*每个页面公共css */
+	@import './static/iconFont/iconfont.css';
+	.gomeImgLoad{
+        width: 750rpx ;
+				height: auto;
+
+      }
 </style>
